@@ -76,3 +76,6 @@ use it as one.
 ## License
 
 GPL
+
+# Note 
+See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full design.
