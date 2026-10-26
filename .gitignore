@@ -1,0 +1,8 @@
+*.o
+*.d
+*.out
+*.bin
+*.elf
+output.bin
+shellcode.out
+output.out
